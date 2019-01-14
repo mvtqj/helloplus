@@ -22,5 +22,5 @@ Azim Roussanaly
 ## Licence
 
 Ce projet est distribué sous une licence MIT
-(voir [LICENSE.md](LICENSE.md) pour plus de détails)
+(voir [license.md](license.md) pour plus de détails)
 
