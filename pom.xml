@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.ul.miage</groupId>
 	<artifactId>helloplus</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<name>helloplus</name>
 	<description>Projet maven hello avec : Apache commons (CLI, CSV) + Git + Wiki</description>
 	<!-- On va travailler avec Java8 -->
